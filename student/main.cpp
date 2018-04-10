@@ -5,7 +5,7 @@
 int main()
 {
 	char studentType, ifile[20], ofile[20], firstName[21], lastName[21], throwaway[10];
-	int listSize, a = 0, b = 0, c = 0, d = 0, f = 0;;
+	int listSize, a = 0, b = 0, c = 0, d = 0, f = 0;
 	ifstream fin;
 	ofstream fout;
 
@@ -73,7 +73,7 @@ int main()
 
 	}
 
-	//cone with input
+	//done with input
 	fin.close();
 //----------------------------------------------------OUTPUT-------------------------------------------------\\
 
